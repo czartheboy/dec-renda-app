@@ -111,8 +111,6 @@ Este projeto é uma ferramenta de apoio organizacional e **não substitui a decl
 ---
 ## ✍ Autor
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
-
 <table>
   <tr>
     <td align="center">
